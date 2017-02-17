@@ -1,0 +1,25 @@
+header{
+	width: 1024px;
+	height: 200px;
+	background-color: #101099;
+	margin: auto auto;
+}
+
+#container_main {
+	width: 1024px;
+	min-height: 720px;
+	margin:auto auto;
+	background-color: #591DC7;
+}
+#menu_main {
+	width: 300px;
+	min-height: 720px;
+	float: left;
+	background-color: #D5E432;
+}
+#content_main {
+	width: 724px;
+	min-height: 720px;
+	float: left;
+	background-color: #35E44A;
+}
